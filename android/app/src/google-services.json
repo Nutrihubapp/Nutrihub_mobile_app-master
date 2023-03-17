@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "444741627342",
+    "project_id": "nutrihub-c56ea",
+    "storage_bucket": "nutrihub-c56ea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:444741627342:android:ff8ef762127599938d0f9f",
+        "android_client_info": {
+          "package_name": "com.example.nutrihub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "444741627342-kduta856fktiggpkeesn9ga4v442i85k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nutrihub",
+            "certificate_hash": "8e4b18b9e967a82074a4a91481f31217da27aaee"
+          }
+        },
+        {
+          "client_id": "444741627342-d6hm51g2kvfeeg7a2avm52ibnuvncfj7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDcNS2yiwZysUoZ_8KsxckQjiegcf6HPA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "444741627342-d6hm51g2kvfeeg7a2avm52ibnuvncfj7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "444741627342-dvpo2nsqrfcuoj7s4sm4l1lqq772b699.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.nutrihub"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:444741627342:android:299938c80dec8dc18d0f9f",
+        "android_client_info": {
+          "package_name": "com.nutrihub.nutrihub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "444741627342-731pjbirqfth8as29hvun8h1fqh4ckgh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nutrihub.nutrihub",
+            "certificate_hash": "8e4b18b9e967a82074a4a91481f31217da27aaee"
+          }
+        },
+        {
+          "client_id": "444741627342-d6hm51g2kvfeeg7a2avm52ibnuvncfj7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDcNS2yiwZysUoZ_8KsxckQjiegcf6HPA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "444741627342-d6hm51g2kvfeeg7a2avm52ibnuvncfj7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "444741627342-dvpo2nsqrfcuoj7s4sm4l1lqq772b699.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.nutrihub"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

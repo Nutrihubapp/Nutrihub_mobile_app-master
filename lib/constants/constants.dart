@@ -1,0 +1,5 @@
+const String stripeKey =
+
+  "pk_live_51KiexYLlY2bBukWk5ce3BZmeBX9Bnt2KO3ES4SzAeb2h7cQx9gcKPA4CG7Rg5JSoYHlsukANXPGVxCvyMjAKex9Q00rcsaRBP9";
+
+ //"pk_test_51KiexYLlY2bBukWk9ssCGkeg9SqHNABKMSoBjF9820wZrPQwuVTcbD2hVEv9msNlANn2kVFIRfrRwc7jlomsH5uD00bkz7X87d";
